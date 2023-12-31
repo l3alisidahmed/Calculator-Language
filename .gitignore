@@ -1,0 +1,12 @@
+my Test
+.vscode
+
+cmp.exe
+
+exp.tab.c
+exp.tab.h
+lex.yy.c
+
+out.txt
+
+Manuel-Bison.pdf
